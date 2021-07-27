@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Prompt";
+  src: url(https://fonts.google.com/specimen/Prompt#standard-styles) format("truetype");
+}
+h1 { font-family: "Prompt", sans-serif }
